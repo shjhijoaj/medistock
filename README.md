@@ -6,7 +6,7 @@ MediStock：Vue 药品进销存工作台，SQLite 批次库存、FEFO 出库、�
 
 作者：宋浩 · 桂林电子科技大学 · 计算机科学与技术 · 2027 届。
 
-[个人作品集](https://shjhijoaj.github.io/hao-song-portfolio/) · [项目详情](https://shjhijoaj.github.io/hao-song-portfolio/projects/medistock.html) · [下载运行包](https://github.com/shjhijoaj/medistock/releases/tag/v2.0.0)
+[个人作品集](https://shjhijoaj.github.io/hao-song-portfolio/) · [项目详情](https://shjhijoaj.github.io/hao-song-portfolio/projects/medistock.html) · [下载运行包](https://github.com/shjhijoaj/medistock/releases/tag/v2.0.1)
 
 ![MediStock 运行界面](docs/images/dashboard.png)
 
